@@ -1,0 +1,7 @@
+[slaves]
+host4 ansible_host=172.18.0.5 ansible_user=root 
+host3 ansible_host=172.18.0.4 ansible_user=root 
+host2 ansible_host=172.18.0.3 ansible_user=root 
+
+[masters]
+host1 ansible_host=172.18.0.2 ansible_user=root 
